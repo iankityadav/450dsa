@@ -10,7 +10,12 @@ Output: {0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 2, 2}
 ```
 
 <details>
-<summary>Hint</summary>
+<summary>Hint #1</summary>
  Count the number of 0s, 1s and 2s in the given array. Then store all the 0s in the beginning followed
  by all the 1s then all the 2s.
+</details>
+
+<details>
+<summary>Hint #2</summary>
+Use three indexes to handle low, mid and high elements as 0s, 1s and 2s. (Optimal Solution)
 </details>
