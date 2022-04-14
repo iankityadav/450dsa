@@ -9,8 +9,8 @@ Serial No. | Questions
 3 | [Find the "Kth" max and min element of an array](https://github.com/iankityadav/450dsa/tree/master/Array/3-Kth%20Max%20and%20Min%20in%20Array)
 4 | [Given an array which consists of only 0, 1 and 2. Sort the array without using any sorting algo](https://github.com/iankityadav/450dsa/tree/master/Array/4-Sort%20Array%20of%200%201%202)
 5 | [Move all the negative elements to one side of the array](https://github.com/iankityadav/450dsa/tree/master/Array/5-Move%20Negative%20Elements%20of%20Array)
-6 | [Find the Union and Intersection of the two sorted arrays.](https://github.com/iankityadav/450dsa/tree/master/Array/Union%20and%20Intersection%20of%202%20Arrays)
-7 | Write a program to cyclically rotate an array by one.
+6 | [Find the Union and Intersection of the two sorted arrays.](https://github.com/iankityadav/450dsa/tree/master/Array/6-Union%20and%20Intersection%20of%202%20Arrays)
+7 | [Write a program to cyclically rotate an array by one.](https://github.com/iankityadav/450dsa/tree/master/Array/7-Rotate%20Array)
 8 | find Largest sum contiguous Subarray
 9 | Minimise the maximum difference between heights
 10 | Minimum no. of Jumps to reach end of an array
