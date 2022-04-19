@@ -1,5 +1,30 @@
 # 450dsa
-A sheet available at https://450dsa.com that covers almost every concept of Data Structures and Algorithms.
+![](https://badgen.net/badge/work-in/:progress/blue) ![](https://badgen.net/github/stars/iankityadav/450dsa)
+
+![](.img/dsa.jpg)
+Learning by solving the sheet available at https://450dsa.com that covers almost every questions to prepare for Data Structures and Algorithms.
+
+## Contribute
+- Help to grow the community and learning.
+- Make your valuable contributions to this project by adding your better solutions in widely used programming languages.
+- Willing to consider new ideas.
+
+## Content
+- [Arrays](#arrays)
+- Matrix(10)
+- Strings(43)
+- Searching and Sorting(36)
+- Linked List(36)
+- Bit Manipulation(10)
+- Greedy(35)
+- Backtracking(19)
+- Dynamic Programming(60)
+- Stacks and Queues(38)
+- Binary Trees(35)
+- Binary Search Tree(22)
+- Graphs(44)
+- Heap(18)
+- Trie(6)
 
 ## Arrays
 Serial No. | Questions
@@ -14,7 +39,7 @@ Serial No. | Questions
 8 | [find Largest sum contiguous Subarray](Array/8-Largest%20Sum%20Contiguous%20Subarray)
 9 | [Minimise the maximum difference between heights](Array/9-Minimize%20Difference)
 10 | [Minimum no. of Jumps to reach end of an array](Array/10-Minimum%20Jumps%20to%20Reach%20End)
-11 | find duplicate in an array of N+1 Integers
+11 | [find duplicate in an array of N+1 Integers](Array/11-Duplicate%20in%20Array)
 12 | Merge 2 sorted arrays without using Extra space.
 13 | Kadane's Algo
 14 | Merge Intervals
