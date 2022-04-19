@@ -38,8 +38,8 @@ Serial No. | Questions
 7 | [Write a program to cyclically rotate an array by one.](Array/7-Rotate%20Array)
 8 | [find Largest sum contiguous Subarray](Array/8-Largest%20Sum%20Contiguous%20Subarray)
 9 | [Minimise the maximum difference between heights](Array/9-Minimize%20Difference)
-10 | [Minimum no. of Jumps to reach end of an array](Array/10-Minimum%20Jumps%20to%20Reach%20End)
-11 | [find duplicate in an array of N+1 Integers](Array/11-Duplicate%20in%20Array)
+10 | [Minimum no. of Jumps to reach end of an array](Array/10%20-%20Minimum%20Jumps%20to%20Reach%20End)
+11 | [find duplicate in an array of N+1 Integers](Array/11%20-%20Duplicate%20in%20Array)
 12 | Merge 2 sorted arrays without using Extra space.
 13 | Kadane's Algo
 14 | Merge Intervals
