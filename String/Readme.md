@@ -1,7 +1,7 @@
 ## String
 Serial No. | Questions
 | --- | ----------- |
-1 | Reverse a String
+1 | [Reverse a String](1-Reverse%20a%20String)
 2 | Check whether a String is Palindrome or not
 3 | Find Duplicate characters in a string
 4 | Why strings are immutable in Java?
