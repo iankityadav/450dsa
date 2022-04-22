@@ -1,7 +1,7 @@
 ## Stacks and Queues
 Serial No. | Questions
 | --- | ----------- |
-1 | Implement Stack from Scratch
+1 | [Implement Stack from Scratch](1-Implement%20Stack)
 2 | Implement Queue from Scratch
 3 | Implement 2 stack in an array
 4 | find the middle element of a stack
