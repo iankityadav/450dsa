@@ -1,18 +1,18 @@
 ## Arrays
 Serial No. | Questions
 | --- | ----------- |
-1 | [Reverse the array](Array/1-Reverse)
-2 | [Find the maximum and minimum element in an array](Array/2-Max%20and%20Min%20in%20Array)
-3 | [Find the "Kth" max and min element of an array](Array/3-Kth%20Max%20and%20Min%20in%20Array)
-4 | [Given an array which consists of only 0, 1 and 2. Sort the array without using any sorting algo](Array/4-Sort%20Array%20of%200%201%202)
-5 | [Move all the negative elements to one side of the array](Array/5-Move%20Negative%20Elements%20of%20Array)
-6 | [Find the Union and Intersection of the two sorted arrays.](Array/6-Union%20and%20Intersection%20of%202%20Arrays)
-7 | [Write a program to cyclically rotate an array by one.](Array/7-Rotate%20Array)
-8 | [find Largest sum contiguous Subarray](Array/8-Largest%20Sum%20Contiguous%20Subarray)
-9 | [Minimise the maximum difference between heights](Array/9-Minimize%20Difference)
-10 | [Minimum no. of Jumps to reach end of an array](Array/10-Minimum%20Jumps%20to%20Reach%20End)
-11 | [find duplicate in an array of N+1 Integers](Array/11-Duplicate%20in%20Array)
-12 | Merge 2 sorted arrays without using Extra space.
+1 | [Reverse the array](1-Reverse)
+2 | [Find the maximum and minimum element in an array](2-Max%20and%20Min%20in%20Array)
+3 | [Find the "Kth" max and min element of an array](3-Kth%20Max%20and%20Min%20in%20Array)
+4 | [Given an array which consists of only 0, 1 and 2. Sort the array without using any sorting algo](4-Sort%20Array%20of%200%201%202)
+5 | [Move all the negative elements to one side of the array](5-Move%20Negative%20Elements%20of%20Array)
+6 | [Find the Union and Intersection of the two sorted arrays.](6-Union%20and%20Intersection%20of%202%20Arrays)
+7 | [Write a program to cyclically rotate an array by one.](7-Rotate%20Array)
+8 | [find Largest sum contiguous Subarray](8-Largest%20Sum%20Contiguous%20Subarray)
+9 | [Minimise the maximum difference between heights](9-Minimize%20Difference)
+10 | [Minimum no. of Jumps to reach end of an array](10-Minimum%20Jumps%20to%20Reach%20End)
+11 | [find duplicate in an array of N+1 Integers](11-Duplicate%20in%20Array)
+12 | [Merge 2 sorted arrays without using Extra space.](12-Merge%20two%20sorted%20arrays)
 13 | Kadane's Algo
 14 | Merge Intervals
 15 | Next Permutation
