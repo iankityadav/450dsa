@@ -2,7 +2,7 @@
 Serial No. | Questions
 | --- | ----------- |
 1 | [Count set bits in an integer](1-Count%20Set%20Bits)
-2 | Find the two non-repeating elements in an array of repeating elements
+2 | [Find the two non-repeating elements in an array of repeating elements](2-Find%20non-repeating%20elements)
 3 | Count number of bits to be flipped to convert A to B
 4 | Count total set bits in all numbers from 1 to n
 5 | Program to find whether a no. is power of two
