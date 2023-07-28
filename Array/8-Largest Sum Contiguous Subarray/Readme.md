@@ -9,5 +9,5 @@ Output: 7
 <details>
 <summary>Hint</summary>
 
-- Kadane's Algorithm
+- [Kadane's Algorithm](../13%20-%20Kadane's%20Algorithm/Readme.md)
 </details>
