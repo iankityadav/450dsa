@@ -13,8 +13,8 @@ Serial No. | Questions
 10 | [Minimum no. of Jumps to reach end of an array](10-Minimum%20Jumps%20to%20Reach%20End)
 11 | [find duplicate in an array of N+1 Integers](11-Duplicate%20in%20Array)
 12 | [Merge 2 sorted arrays without using Extra space.](12-Merge%20two%20sorted%20arrays)
-13 | Kadane's Algo
-14 | Merge Intervals
+13 | [Kadane's Algo](13%20-%20Kadane's%20Algorithm)
+14 | [Merge Intervals](14%20-%20Merge%20Intervals)
 15 | Next Permutation
 16 | Count Inversion
 17 | Best time to buy and Sell stock
