@@ -2,25 +2,25 @@ import java.util.HashSet;
 
 /**
  * Solution of question 6 in series of 450 DSA sheet.
- * 
+ *
  * <p>
  * Contains methods to find the number of elements in union and intersection of
  * two arrays
  * </p>
- * 
+ *
  * @author iankityadav
  */
-public class Solution {
+public class SolutionArray6 {
     public static void main(String[] args) {
-        int a[] = {1,4,6,7,9,10,11};
-        int b[] = {3,1,5,7,8};
+        int a[] = { 1, 4, 6, 7, 9, 10, 11 };
+        int b[] = { 3, 1, 5, 7, 8 };
         int u = union(a, a.length, b, b.length);
         int i = intersection(a, a.length, b, b.length);
-        System.out.println("Union: "+u+", Intersection: "+i);
+        System.out.println("Union: " + u + ", Intersection: " + i);
     }
 
     /**
-     * 
+     *
      * @param a First Array
      * @param n Length of first array
      * @param b Second Array
@@ -37,7 +37,7 @@ public class Solution {
     }
 
     /**
-     * 
+     *
      * @param a First Array
      * @param n Length of first array
      * @param b Second Array

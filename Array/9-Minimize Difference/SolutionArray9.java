@@ -2,19 +2,20 @@ import java.util.Arrays;
 
 /**
  * Solution of question 9 in series of 450 DSA sheet.
- * 
+ *
  * <p>
  * Consider the array <code>[a,c,d,b]</code> to minimize the difference.
  * </p>
  * Maximum difference between the height of towers assuming the array is sorted
  * is <code>b-a</code>.
  * To minimise the difference add <code>k</code> to the <code>c</code> and
- * subract <code>k</code> from <code>d</code> and greedily store the minimum difference.
+ * subract <code>k</code> from <code>d</code> and greedily store the minimum
+ * difference.
  * <p>
- * 
+ *
  * @author iankityadav
  */
-public class Solution {
+public class SolutionArray9 {
     public static void main(String[] args) {
         int arr[] = { 7, 4, 8, 8, 8, 9 };
         int k = 6;
@@ -31,10 +32,11 @@ public class Solution {
      * <p>
      * When considering the case where <code>arr[i] &lt; k</code> because the height
      * of the tower can’t be
-     * negative then to neglect that case, put the condition <code>if(!(arr[i] &lt; k))</code> inside the
+     * negative then to neglect that case, put the condition
+     * <code>if(!(arr[i] &lt; k))</code> inside the
      * <code>for</code> loop containing the approach inside it.
      * </p>
-     * 
+     *
      * @param arr Array of elements
      * @param n   Length of <code>arr</code>
      * @param k   Value which can be added or subtracted to minimize the differnce

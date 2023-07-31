@@ -1,14 +1,14 @@
 /**
  * Solution of question 7 in series of 450 DSA sheet.
- * 
+ *
  * <p>
  * Contains the method which performs the cyclic rotation of one in an integer
  * array
  * </p>
- * 
+ *
  * @author iankityadav
  */
-public class Solution {
+public class SolutionArray7 {
     public static void main(String[] args) {
         int[] arr = { 1, 2, 3, 4, 5, 6 };
         rotate(arr, arr.length);
@@ -19,9 +19,9 @@ public class Solution {
 
     /**
      * Rotates the array by one clockwise cycle
-     * 
+     *
      * @param arr Array of Integer
-     * @param n Length of array
+     * @param n   Length of array
      */
     public static void rotate(int arr[], int n) {
         int a = arr[n - 1];
