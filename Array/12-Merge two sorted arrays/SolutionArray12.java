@@ -3,7 +3,7 @@ import java.util.Arrays;
 /**
  * Solution of question 12 of arrays
  */
-public class Solution {
+public class SolutionArray12 {
     public static void main(String[] args) {
 
     }
@@ -11,7 +11,7 @@ public class Solution {
     /**
      * Merges the array by swapping the elements which is smaller in second array
      * than the element in first array
-     * 
+     *
      * @param arr1 First Array
      * @param arr2 Second Array
      * @param n    Length of <code>arr1</code>

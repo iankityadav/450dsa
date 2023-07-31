@@ -1,14 +1,14 @@
 /**
  * Solution of question 5 in series of 450 DSA sheet.
- * 
+ *
  * <p>
  * Two pointers approach where we simply take two variables like left and right
  * which hold the 0 and N-1 indexes.
  * </p>
- * 
+ *
  * @author iankityadav
  */
-public class Solution {
+public class SolutionArray5 {
     public static void main(String[] args) {
         int[] arr = { -1, 2, -3, 4, 5, 6, -7, 8, 9, -11 };
         move(arr, 0, arr.length - 1);
@@ -20,7 +20,7 @@ public class Solution {
     /**
      * Moves all the negative integers to the start of the array and positive
      * numbers at the end.
-     * 
+     *
      * @param arr   Array of integers
      * @param left  Pointer for start
      * @param right Pointer for end

@@ -1,10 +1,12 @@
 /***
  * Solution of question 2 in series of 450 DSA sheet.
+ *
+ * <p>
+ * Compared in pairs for minimum number of comparisons
  * 
- * <p>Compared in pairs for minimum number of comparisons
  * @author iankityadav
  */
-public class Solution {
+public class SolutionArray2 {
     public static void main(String[] args) {
         int arr[] = { 123, 234, 987, 456, 345, 100 };
         Pair res = getMinMax(arr, arr.length);
@@ -20,8 +22,9 @@ public class Solution {
     }
 
     /**
-     * Accepts the array and returns maximum and minimum element in array 
+     * Accepts the array and returns maximum and minimum element in array
      * by comparing in O(n) time with O(1) auxiliary space
+     * 
      * @param arr
      * @param n
      * @return Pair of min and max elements in given array

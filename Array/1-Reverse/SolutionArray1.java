@@ -1,10 +1,12 @@
 /***
  * Solution of question 1 in series of 450 DSA sheet.
+ *
+ * <p>
+ * Provided with String and Integer array
  * 
- * <p>Provided with String and Integer array
  * @author iankityadav ;
  */
-public class Solution {
+public class SolutionArray1 {
     public static void main(String[] args) {
         String str = "Reverse a string or Array";
         String[] arr = str.split("");
@@ -18,7 +20,9 @@ public class Solution {
     }
 
     /**
-     * Reverse the provided array of objects iteratively by swapping the elements from start to end.
+     * Reverse the provided array of objects iteratively by swapping the elements
+     * from start to end.
+     * 
      * @param <T>
      * @param arr
      * @param start
@@ -37,7 +41,9 @@ public class Solution {
 
     /**
      * Prints the array of elements with comma as separator except array of string.
-     * <p>Prints the string in one line without separator.
+     * <p>
+     * Prints the string in one line without separator.
+     * 
      * @param <T>
      * @param arr
      * @param size
