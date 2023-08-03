@@ -1,9 +1,9 @@
 /**
  * Solution of question 1 of bit manipulation
- * 
+ *
  * @author iankityadav
  */
-public class Solution {
+public class SolutionCountSetBits1 {
     public static void main(String[] args) {
         System.out.println(countSetBits(6));
     }
@@ -11,11 +11,11 @@ public class Solution {
     /**
      * Shift bits and do Binary AND operation.
      * AND returns 1 only when both are set bits hence masking it with 1.
+     * 
      * @param n
      * @return
      */
-    public static int countSetBits(int n)
-    {
+    public static int countSetBits(int n) {
         int count = 0;
         while (n > 0) {
             count += n & 1;
@@ -30,7 +30,7 @@ public class Solution {
      * Subtracting 1 from a decimal number flips all the bits after the rightmost
      * set bit(which is 1) including the rightmost set bit
      * </p>
-     * 
+     *
      * @param n
      * @return
      */

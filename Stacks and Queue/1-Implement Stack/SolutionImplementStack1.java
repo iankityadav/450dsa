@@ -1,7 +1,7 @@
 /**
  * Solution of question 1 of stack
  */
-public class Solution {
+public class SolutionImplementStack1 {
     public static void main(String[] args) {
         Stack stack = new Stack();
         stack.push(2);

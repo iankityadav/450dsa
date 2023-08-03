@@ -1,4 +1,4 @@
-public class Solution {
+public class SolutionReverseAString1 {
     public static void main(String[] args) {
         char[] s = "string".toCharArray();
         reverseString(s);
@@ -7,6 +7,7 @@ public class Solution {
 
     /**
      * Reverse the string
+     * 
      * @param s String
      */
     public static void reverseString(char[] s) {
